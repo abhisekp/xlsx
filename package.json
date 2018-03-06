@@ -1,0 +1,17 @@
+{
+  "name": "xlsx",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "author": "Abhisek Pattnaik <abhisekp@lecturenotes.in> (https://about.me/abhisekp)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon -w ."
+  },
+  "dependencies": {
+    "xlsx2json": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
